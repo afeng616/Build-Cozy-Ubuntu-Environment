@@ -11,8 +11,9 @@
 
 ## 目录
 得益于广大社区开发者的贡献，才能让我整合出以下可行方案。  
-[博客](https://afeng.plus)
+[我的博客](https://afeng.plus)
 
 [01-clash安装](./documents/01-clash安装.md)  
 [02-微信安装](./documents/02-安装微信.md)  
-[03-磁盘挂载](./documents/03-硬盘挂载.md)
+[03-磁盘挂载](./documents/03-硬盘挂载.md)  
+[04-安装qq音乐.md](documents/04-安装qq音乐.md)
