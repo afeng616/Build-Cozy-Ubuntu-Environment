@@ -16,5 +16,6 @@
 [01-clash安装](./documents/01-clash安装.md)  
 [02-微信安装](./documents/02-安装微信.md)  
 [03-磁盘挂载](./documents/03-硬盘挂载.md)  
-[04-安装qq音乐.md](documents/04-安装qq音乐.md)  
-[05-安装QQ/TIM.md](documents/05-安装TIM.md)  
+[04-安装qq音乐](documents/04-安装qq音乐.md)  
+[05-安装QQ/TIM](documents/05-安装TIM.md)  
+[06-快捷键相关](documents/06-快捷键.md)
