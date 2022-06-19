@@ -13,9 +13,11 @@
 得益于广大社区开发者的贡献，才能让我整合出以下可行方案。  
 [我的博客](https://afeng.plus)
 
+[00-系统问题及解决方案](./documents/00-系统问题及解决方案.md)  
 [01-clash安装](./documents/01-clash安装.md)  
 [02-微信安装](./documents/02-安装微信.md)  
 [03-磁盘挂载](./documents/03-硬盘挂载.md)  
 [04-安装qq音乐](documents/04-安装qq音乐.md)  
 [05-安装QQ/TIM](documents/05-安装TIM.md)  
-[06-快捷键相关](documents/06-快捷键.md)
+[06-快捷键相关](documents/06-快捷键.md)  
+[07-深度学习开发环境](documents/07-深度学习开发环境.md)  
