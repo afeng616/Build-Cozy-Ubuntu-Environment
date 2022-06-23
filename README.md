@@ -24,3 +24,5 @@
 [06-快捷键相关](documents/06-快捷键.md)  
 [07-深度学习开发环境](documents/07-深度学习开发环境.md)  
 [08-安装Redis](documents/08-安装redis.md)  
+
+[99-常用工具推荐](documents/99-常用工具推荐.md)

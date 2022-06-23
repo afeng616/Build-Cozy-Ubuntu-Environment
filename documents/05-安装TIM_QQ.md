@@ -12,6 +12,10 @@
 经查询，TIM官方并未发布`Linux`版本安装包，TIM官方版同样放弃。
 ![TIM for linux](../images/05-tim-official-download.png)
 
+## 通过星火商店
+一个Ubuntu上的AppStore——[星火商店](https://www.spark-app.store/)，安装完毕以后，直接打开软件搜索安装即可，是一个国产的用爱维护的社区商店。  
+在这个商店里可以选择官方版QQ，虽然安装依然基于`wine`系列，但是经过精心维护，不需要自己动手做复杂配置，体验也优于前者，同时安全性由于第三方QQ。
+
 ## 开源项目Icalingua++
 进入项目[Release页面](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases)下载对应.deb包，通过`sudo dpkg -i`安装即可。  
 适配和体验都优于下面所讲的`wine`系列，但由于非官方出品，所以随时有停止维护等可能。
@@ -40,6 +44,7 @@ sudo apt-get install com.qq.office.deepin
 ![修改脚本函数](../images/05-edit-shell-function.png)
 
 ## 参考链接
+[官网:星火商店](https://www.spark-app.store/)  
 [GitHub开源项目:Icalingua++](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus)
 [GitHub:开源项目deepin-wine](https://github.com/zq1997/deepin-wine)  
 [GitHub:issues解决方案](https://github.com/zq1997/deepin-wine/issues/269)
