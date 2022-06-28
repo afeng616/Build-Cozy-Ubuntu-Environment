@@ -11,7 +11,7 @@
 
 ## 目录
 得益于广大社区开发者的贡献，才能让我整合出以下可行方案。  
-[我的博客](https://afeng.plus)
+<a href="https://space.bilibili.com/329028108" target="_blank">我的B站</a>(更新频繁) | <a href="https://afeng.plus" target="_blank">我的博客</a>(更新较慢)
 
 [pre-安装Ubuntu系统](./documents/pre-安装Ubuntu系统.md)
 
@@ -24,5 +24,6 @@
 [06-快捷键相关](documents/06-快捷键.md)  
 [07-深度学习开发环境](documents/07-深度学习开发环境.md)  
 [08-安装Redis](documents/08-安装redis.md)  
+[09-VSCode常用插件](documents/09-vscode常用插件.md)  
 
 [99-常用工具推荐](documents/99-常用工具推荐.md)
