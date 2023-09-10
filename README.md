@@ -11,7 +11,7 @@
 
 ## 目录
 得益于广大社区开发者的贡献，才能让我整合出以下可行方案。  
-<a href="https://space.bilibili.com/329028108" target="_blank">我的B站</a>(更新频繁) | <a href="https://afeng.plus" target="_blank">我的博客</a>(更新较慢)
+<a href="https://space.bilibili.com/329028108" target="_blank">我的B站</a> | <a href="https://afeng616.github.com" target="_blank">我的博客</a>
 
 [pre-安装Ubuntu系统](./documents/pre-安装Ubuntu系统.md)
 
