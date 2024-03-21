@@ -15,6 +15,7 @@
 
 [pre-安装Ubuntu系统](./documents/pre-安装Ubuntu系统.md)
 
+[00-修复Ubuntu引导](./documents/00-修复Ubuntu引导.md)
 [00-系统问题及解决方案](./documents/00-系统问题及解决方案.md)  
 [01-clash安装](./documents/01-clash安装.md)  
 [02-微信安装](./documents/02-安装微信.md)  
